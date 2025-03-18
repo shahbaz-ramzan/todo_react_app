@@ -1,0 +1,41 @@
+/* Header */
+.app-header {
+  background: #001529;
+  padding: 0;
+  position: fixed;
+  width: 100%;
+  z-index: 1000;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+/* Sidebar */
+.app-sidebar {
+  height: 100vh;
+  position: fixed;
+  left: 0;
+  top: 64px;
+  background: #001529;
+}
+
+/* Content Layout */
+.app-content {
+  /* margin-left: 200px;  */
+  margin-top: 94px;
+  min-height: 89vh;
+  background: #f0f2f5;
+}
+
+/* Content Area */
+.content-area {
+  padding: 12px ;
+  background: #fff;
+  border-radius: 8px;
+}
+
+/* Footer */
+.app-footer {
+  text-align: center;
+  background: #f0f2f5;
+  padding: 10px 0;
+  margin-top: 20px;
+}

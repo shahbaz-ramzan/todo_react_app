@@ -1,0 +1,23 @@
+.table-container {
+    padding: 20px;
+    background-color: #fff;
+  }
+  
+  .table-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 15px;
+  }
+  
+  .table-header h2 {
+    margin: 0;
+    font-size: 20px;
+    font-weight: bold;
+  }
+  
+  .table-header button {
+    background-color: #1890ff;
+    color: white;
+  }
+  

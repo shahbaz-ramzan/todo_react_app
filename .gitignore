@@ -1,0 +1,49 @@
+# Node modules
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+.vscode/
+
+# Build output
+build/
+dist/
+
+# Dependency directories
+/.pnp
+.pnp.js
+
+# Testing
+/coverage
+/junit.xml
+
+# Environment files
+.env
+.env.local
+.env.development
+.env.production
+.env.test
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Editor/IDE files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Misc
+public/*.cache
+public/favicon.ico
+public/logo192.png
+public/logo512.png
+public/robots.txt
+public/manifest.json
+*.bak
